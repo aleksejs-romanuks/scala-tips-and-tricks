@@ -1,6 +1,6 @@
 package com.alex.projects.scala.functions
 
-object ByNameParameters extends App{
+object ByNameParameters extends App {
 
   def time: Long = System.nanoTime()
 
