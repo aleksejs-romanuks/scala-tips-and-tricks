@@ -1,7 +1,6 @@
 package com.alex.projects.scala.concurency
 
 import scalaj.http.{Http, HttpResponse}
-
 import scala.concurrent.{ExecutionContext, Future}
 
 object ScalaFuture extends App {

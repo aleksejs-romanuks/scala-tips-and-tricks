@@ -1,6 +1,5 @@
 package com.alex.projects.scala.concurency
 
-import com.alex.projects.scala.concurency.CombineScalaFutures.guessAge
 import scalaj.http.{Http, HttpResponse}
 import scala.concurrent.duration._
 import scala.collection.mutable.ArrayBuffer
